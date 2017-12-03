@@ -139,6 +139,7 @@ publish/
 # This line needs to be after the ignore of the build folder
 # (and the packages folder if the line above has been uncommented)
 !packages/build/
+packages/
 
 # Windows Azure Build Output
 csx/
@@ -204,3 +205,8 @@ ModelManifest.xml
 /Concentration Studies Service
 /QA/SmokeTests/abEnterprise.SmokeTests/TestConfiguration.config
 /Solution/.vs/
+/.vs/DashboardApp/v15/Server/sqlite3/db.lock
+/.vs/DashboardApp/v15/Server/sqlite3/storage.ide
+/.vs/DashboardApp/v15/Server/sqlite3/storage.ide-shm
+/.vs/DashboardApp/v15/Server/sqlite3/storage.ide-wal
+/.vs/config/applicationhost.config
