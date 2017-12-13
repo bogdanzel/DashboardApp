@@ -190,7 +190,7 @@ _Pvt_Extensions/
 ModelManifest.xml
 
 # EXT CMD BUILD PER USER FILES
-*bootstrap.css
+#*bootstrap.css
 *bootstrap.js
 *bootstrap.json
 /Solution/Impact.Web/${css.output.name}
