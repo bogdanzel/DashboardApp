@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardApp", "DashboardApp\DashboardApp.csproj", "{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}"
 EndProject
@@ -9,20 +9,14 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-		Test|Any CPU = Test|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Test|Any CPU.ActiveCfg = Test|Any CPU
-		{7B8CCB04-20BB-4184-9DD0-EE118D72FFD0}.Test|Any CPU.Build.0 = Test|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9C2A77C1-9BDF-4AA4-9284-AD0B919383C9}
 	EndGlobalSection
 EndGlobal
