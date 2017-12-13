@@ -191,8 +191,8 @@ ModelManifest.xml
 
 # EXT CMD BUILD PER USER FILES
 #*bootstrap.css
-*bootstrap.js
-*bootstrap.json
+#*bootstrap.js
+#*bootstrap.json
 /Solution/Impact.Web/${css.output.name}
 /Solution/Impact.Web/sass/example/bootstrap.json
 /Solution/Impact.Web/locale/en.json
